@@ -21,7 +21,7 @@ We wrote down the whole journey as well as findings, results, methods, math, and
 Since we wrote it in LaTeX, I cannot embed it into this README directly.
 Furthermore, it is written in German since we attend a German university.
 
-For the finetuning itself, we used QLoRA to efficiently reduce the computing needed for the finetuning, allowing us to use a bigger model. More on that in our paper.
+For the finetuning itself, we used QLoRA to efficiently reduce the computing needed, allowing us to use a bigger model. More on that in our paper.
 
 # License 📝
 
