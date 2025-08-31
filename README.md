@@ -16,7 +16,7 @@ Below are links to the Model and Dataset we used:
 
 We wrote down the whole journey as well as findings, results, methods, math, and analytics of this project in the following Paper:
 
-[Feinabstimmung_eines_LLMs_für_menschenähnliche_Textgenerierung.pdf](https://github.com/lacedicetea/KI-project/edit/main/Feinabstimmung_eines_LLMs_für_menschenähnliche_Textgenerierung.pdf)
+[Feinabstimmung_eines_LLMs_für_menschenähnliche_Textgenerierung.pdf](https://github.com/lacedicetea/KI-project/blob/main/Feinabstimmung_eines_LLMs_f%C3%BCr_menschen%C3%A4hnliche_Textgenerierung.pdf)
 
 Since we wrote it in LaTeX, I cannot embed it into this README directly.
 Furthermore, it is written in German since we attend a German university.
